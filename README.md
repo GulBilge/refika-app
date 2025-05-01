@@ -39,5 +39,5 @@ Refika is based on the teaching methodology of **Fatma Serap Karamollaoğlu**, a
 
 ## 🤝 Contributing
 
-We welcome contributions! Feel free to open an [issue](https://github.com/yourusername/refika/issues) or submit a pull request.
+We welcome contributions! Feel free to open an [issue](https://github.com/GulBilge/refika/issues) or submit a pull request.
 
